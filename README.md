@@ -1,4 +1,4 @@
-# Mi Página Personal 🚀
+# Daniel Bullon - Página Personal 🚀
 
 Una página web personal moderna y responsiva desplegada en GitHub Pages.
 
@@ -46,7 +46,7 @@ Una página web personal moderna y responsiva desplegada en GitHub Pages.
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+git clone https://github.com/danielbullox/danielbullongreiner.github.io.git
 ```
 
 2. Abre `index.html` en tu navegador favorito
@@ -57,7 +57,7 @@ git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
 2. Navega a **Settings** > **Pages**
 3. En **Source**, selecciona la rama `main` (o `master`)
 4. Haz clic en **Save**
-5. Tu sitio estará disponible en: `https://TU-USUARIO.github.io/TU-REPOSITORIO/`
+5. Tu sitio estará disponible en: `https://danielbullox.github.io/danielbullongreiner.github.io/`
 
 ## ✏️ Personalización
 
@@ -65,7 +65,7 @@ git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
 
 Edita `index.html` y actualiza:
 
-- **Nombre**: Cambia "Daniel" por tu nombre
+- **Nombre**: Cambia "Daniel Bullon" por tu nombre
 - **Descripción**: Actualiza el subtítulo en la sección hero
 - **Sobre Mí**: Personaliza el contenido de la sección "Sobre Mí"
 - **Proyectos**: Añade tus proyectos reales
@@ -131,9 +131,8 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ## 📧 Contacto
 
-- GitHub: [@TU-USUARIO](https://github.com/TU-USUARIO)
-- LinkedIn: [Tu Nombre](https://linkedin.com/in/TU-USUARIO)
-- Email: tu-email@example.com
+- GitHub: [@danielbullox](https://github.com/danielbullox)
+- Email: danielbullongreiner@gmail.com
 
 ---
 
